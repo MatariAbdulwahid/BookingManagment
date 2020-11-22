@@ -8,9 +8,7 @@ namespace Managment.Booking
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public int AddressId { get; set; }
         public CAddress Adress { get; set; }
-        public int DateId { get; set; }
         public CDate Birthday { get; set; }
     }
 }

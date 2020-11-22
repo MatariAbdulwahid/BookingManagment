@@ -1,0 +1,8 @@
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Mnagment.Booking.deps.json
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Mnagment.Booking.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Mnagment.Booking.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Booking.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Booking.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Booking.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Booking.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Booking.pdb

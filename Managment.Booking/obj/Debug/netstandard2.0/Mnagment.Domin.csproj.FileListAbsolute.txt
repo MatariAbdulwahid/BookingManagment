@@ -1,0 +1,9 @@
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Mnagment.Domin.deps.json
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Mnagment.Domin.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Mnagment.Domin.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Domin.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Domin.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Domin.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Domin.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Domin.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Mnagment.Domin.csprojAssemblyReference.cache

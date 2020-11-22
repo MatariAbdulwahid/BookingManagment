@@ -9,8 +9,7 @@ namespace Managment.Booking
         public int Id { get; set; }
         public string Nmae { get; set; }
         public int SubjectNr { get; set; }
-        public int StudyId { get; set; }
         public CStudy Study { get; set; }
-        public List<CEvent> Events { get; set; }
+        public ICollection<CEvent> Events { get; set; }
     }
 }

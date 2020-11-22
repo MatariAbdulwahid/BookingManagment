@@ -1,0 +1,12 @@
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\bin\Debug\netstandard2.0\Mnagment.Data.deps.json
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\bin\Debug\netstandard2.0\Mnagment.Data.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\bin\Debug\netstandard2.0\Mnagment.Data.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\obj\Debug\netstandard2.0\Mnagment.Data.csprojAssemblyReference.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\obj\Debug\netstandard2.0\Mnagment.Data.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\obj\Debug\netstandard2.0\Mnagment.Data.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\obj\Debug\netstandard2.0\Mnagment.Data.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\obj\Debug\netstandard2.0\Mnagment.Data.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\bin\Debug\netstandard2.0\Mnagment.Domin.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\bin\Debug\netstandard2.0\Mnagment.Domin.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\obj\Debug\netstandard2.0\Mnagment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Data\obj\Debug\netstandard2.0\Mnagment.Data.csproj.CopyComplete

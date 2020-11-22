@@ -10,9 +10,7 @@ namespace Managment.Booking
         public int MatriculationNr { get; }
         public int Term { get; }
         public decimal Credits { get; }
-        public int SudyId { get; set; }
         public CStudy Study { get; }
-        public int PersonId { get; set; }
         public CPerson Person { get; set; }
     }
 }

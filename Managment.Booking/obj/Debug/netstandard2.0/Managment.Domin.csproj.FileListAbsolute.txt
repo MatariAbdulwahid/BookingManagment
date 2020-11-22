@@ -1,0 +1,17 @@
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Managment.Domin.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Managment.Domin.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Managment.Domin.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Managment.Domin.deps.json
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Managment.Domin.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\bin\Debug\netstandard2.0\Managment.Domin.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Managment.Domin.dll
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Managment.Domin.pdb
+C:\Users\Abdul\source\repos\CMnagment\Mnagment.Booking\obj\Debug\netstandard2.0\Managment.Domin.csprojAssemblyReference.cache
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\bin\Debug\netstandard2.0\Managment.Domin.deps.json
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\bin\Debug\netstandard2.0\Managment.Domin.dll
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\bin\Debug\netstandard2.0\Managment.Domin.pdb
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\obj\Debug\netstandard2.0\Managment.Domin.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\obj\Debug\netstandard2.0\Managment.Domin.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\obj\Debug\netstandard2.0\Managment.Domin.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\obj\Debug\netstandard2.0\Managment.Domin.dll
+C:\Users\Abdul\source\repos\CManagment\Managment.Booking\obj\Debug\netstandard2.0\Managment.Domin.pdb
